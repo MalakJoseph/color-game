@@ -22,7 +22,7 @@
 You can visit the live demo [here](https://malakjoseph.github.io/color-game/).
 
 ### Credits
-All credits goes to ***Colt Steele*** from [The Web Developer Boot Camp](https://www.udemy.com/the-web-developer-bootcamp/).
+All credits go to ***Colt Steele*** from [The Web Developer Boot Camp](https://www.udemy.com/the-web-developer-bootcamp/).
 
 ### License
 This project is licensed under the terms of the MIT license.
